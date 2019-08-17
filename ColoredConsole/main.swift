@@ -10,4 +10,4 @@ import Foundation
 
 print("They're all dead. Everybody's dead, Dave.".failureColor())
 print("Hello World!".successColor())
-print("Houston we have a problem".warningColor())
+print("Houston we have a problem.".warningColor())
