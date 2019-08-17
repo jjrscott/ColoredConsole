@@ -15,7 +15,7 @@ Recently I wondered, has the answer been staring us in the face all that time. W
 ![Color range](color-range.png)
 
 
-The 5 colors are enabled by suffixing the character with one of the [Fitzpatrick Emoji Modifiers](https://www.unicode.org/reports/tr51/#Emoji_Modifiers_Table): &#x1F3FB;, &#x1F3FC;, &#x1F3FD;, &#x1F3FE;, &#x1F3FF;.
+The 5 colors are enabled by suffixing the character with one of the [Fitzpatrick Emoji Modifiers](https://www.unicode.org/reports/tr51/#Emoji_Modifiers_Table): &#x2060;&#x1F3FB;, &#x2060;&#x1F3FC;, &#x2060;&#x1F3FD;, &#x2060;&#x1F3FE;, or &#x2060;&#x1F3FF;.
 
 
 ## Changing the colors
