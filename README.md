@@ -22,7 +22,7 @@ Recently I wondered, has the answer been staring us in the face all that time. W
 
 <p align="center"><img src="color-range.png" width="423"/></p>
 
-The 5 colors are enabled by suffixing the character with one of the [Fitzpatrick Emoji Modifiers](https://www.unicode.org/reports/tr51/#Emoji_Modifiers_Table): &#x2060;&#x1F3FB;, &#x2060;&#x1F3FC;, &#x2060;&#x1F3FD;, &#x2060;&#x1F3FE;, or &#x2060;&#x1F3FF;.
+The 5 colors are enabled by suffixing the character with one of the [Variation Selectors](https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block)) 6-10 (<font color="#DB2C38">FE06</font>, <font color="#41B645">FE07</font>, <font color="#C67C48">FE08</font>, <font color="#00A0BE">FE09</font> and <font color="#B21889">FE0A</font>).
 
 ## Changing the colors
 
